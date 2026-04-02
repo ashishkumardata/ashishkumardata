@@ -1,16 +1,17 @@
-## Hi there 👋
+Data Analyst with a B.Tech in Computer Science  
+Experienced in Python, SQL, and Power BI  
+Focused on data-driven decision making and business insights  
+Open to opportunities in data analytics
 
-<!--
-**ashishkumar1812/ashishkumar1812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Skills
+- Python
+- SQL (MySQL)
+- Power BI
+- Statistics
+- Libraries: Pandas, NumPy
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 What I Do
+- Data Cleaning & Analysis
+- Writing SQL queries for insights
+- Building dashboards
+- Solving real-world data problems
