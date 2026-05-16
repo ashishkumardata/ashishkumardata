@@ -1,15 +1,100 @@
-# 💫 About Me:
-Data Analyst with a B.Tech in Computer Science<br>Experienced in Python, SQL, and Power BI<br>Focused on data-driven decision making and business insights<br>Open to opportunities in data analytics<br><br>💻 Skills<br><br>Python<br>SQL (MySQL)<br>Power BI<br>Statistics<br>Libraries: Pandas, NumPy<br>📊 What I Do<br><br>Data Cleaning & Analysis<br>Writing SQL queries for insights<br>Building dashboards<br>Solving real-world data problem
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" height="75%" />
+</div>
 
+<h1 align="center">📊 Data Analyst Portfolio</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishkumardata) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ashishkumardata&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ashishkumardata&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashishkumardata&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">
+Turning Raw Data into Meaningful Insights 🚀
+</h3>
 
 ---
+
+<div align="center">
+
+## 🛠️ Skills & Tools
+
+<hr>
+
+### 👨‍💻 Programming Languages
+
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="120" width="120" alt="Python" />
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*9HanDsRU11ZMsgDGJwN96w.gif" height="120" width="120" alt="SQL" />
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" height="120" width="120" alt="Excel" />
+
+<hr>
+
+### 📈 Data Visualization & BI Tools
+
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/power-bi.gif" height="120" width="120" alt="Power BI" />
+<img src="https://cdn.dribbble.com/users/461802/screenshots/4753031/data_dash.gif" height="120" width="120" alt="Data Visualization" />
+<img src="https://miro.medium.com/v2/resize:fit:640/1*Jp6YI0v0QnhK9D4fcwX5aw.gif" height="120" width="120" alt="Analytics" />
+
+<hr>
+
+### 📚 Libraries & Frameworks
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" height="120" width="120" alt="Pandas" />
+<img src="https://numfocus.org/wp-content/uploads/2017/11/scipy-stack-logo.png" height="120" width="120" alt="NumPy" />
+<img src="https://matplotlib.org/_static/images/logo2.svg" height="120" width="120" alt="Matplotlib" />
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="120" width="120" alt="Seaborn" />
+
+<hr>
+
+### ⚙️ Tools & Platforms
+
+<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/github.gif" height="120" width="120" alt="GitHub" />
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" height="120" width="120" alt="VS Code" />
+<img src="https://i.gifer.com/7efs.gif" height="120" width="120" alt="MySQL" />
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" height="120" width="120" alt="Analytics Dashboard" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="160" alt="languages graph" />
+
+</div>
+
+---
+
+<img align="right" height="220" width="35%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQ2Y2VwdDZjYXBqZzlzM2RkYWN4dGd6eDV4cW5uODN4eTZ4ODRjZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif" />
+
+## 📌 About Me
+
+Passionate about **Data Analytics, Business Intelligence, and Visualization**.  
+I enjoy transforming complex datasets into actionable insights using tools like **Python, SQL, Power BI, and Excel**.
+
+🔹 Data Cleaning & Preprocessing  
+🔹 Dashboard Development  
+🔹 Exploratory Data Analysis (EDA)  
+🔹 Business Insights & Reporting  
+🔹 Problem Solving with Data  
+
+Always learning new technologies and improving analytical skills 📊
+
+---
+
+## 🌐 Connect With Me
+
+<div align="left">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub" />
+</a>
+
+<a href="mailto:yourmail@gmail.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email" />
+</a>
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
