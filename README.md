@@ -33,8 +33,8 @@ Turning Raw Data into Meaningful Insights 🚀
 ### 📚 Libraries & Frameworks
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" height="120" width="120" alt="Pandas" />
-<img src="https://commons.wikimedia.org/wiki/File:NumPy_logo_2020.svg" height="120" width="120" alt="NumPy" />
-<img src="https://matplotlib.org/_static/images/logo2.svg" height="120" width="120" alt="Matplotlib" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="120" width="120" alt="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="120" width="120" alt="Matplotlib" />
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="120" width="120" alt="Seaborn" />
 
 <hr>
