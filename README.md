@@ -24,7 +24,7 @@ Turning Raw Data into Meaningful Insights 🚀
 
 ### 📈 Data Visualization & BI Tools
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/power-bi.gif" height="120" width="120" alt="Power BI" />
+<img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" height="120" width="120" alt="Power BI" />
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG12MjVuZnhuOHZkZzV0cDAwNXF3dmI2dnp1NW9uYWltdmswc2gwcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eKV3P1IFX185laegIa/giphy.gif" height="120" width="120" alt="Analytics" />
 
@@ -43,7 +43,7 @@ Turning Raw Data into Meaningful Insights 🚀
 
 <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" height="120" width="120" alt="Power BI" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="120" width="120" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="120" width="120" alt="MySQL" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="120" width="120" alt="Jupyter Notebook" />
 
