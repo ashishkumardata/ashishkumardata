@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" height="75%" />
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%" height="75%" />
 </div>
 
 <h1 align="center">📊 Data Analyst Portfolio</h1>
