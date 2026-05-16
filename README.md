@@ -25,7 +25,7 @@ Turning Raw Data into Meaningful Insights 🚀
 ### 📈 Data Visualization & BI Tools
 
 <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/power-bi.gif" height="120" width="120" alt="Power BI" />
-<img src="https://cdn.dribbble.com/users/461802/screenshots/4753031/data_dash.gif" height="120" width="120" alt="Data Visualization" />
+<img src="[https://cdn.dribbble.com/users/461802/screenshots/4753031/data_dash.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG12MjVuZnhuOHZkZzV0cDAwNXF3dmI2dnp1NW9uYWltdmswc2gwcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eKV3P1IFX185laegIa/giphy.gif)" height="120" width="120" alt="Data Visualization" />
 <img src="https://miro.medium.com/v2/resize:fit:640/1*Jp6YI0v0QnhK9D4fcwX5aw.gif" height="120" width="120" alt="Analytics" />
 
 <hr>
