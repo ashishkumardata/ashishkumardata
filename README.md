@@ -78,7 +78,7 @@ Always learning new technologies and improving analytical skills 📊
 </a>
 
 <a href="https://github.com/ashishkumardata" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="GitHub" />
 </a>
 
 <a href="mailto:ashishkmr.online@gmail.com" target="_blank">
