@@ -19,8 +19,6 @@ Turning Raw Data into Meaningful Insights 🚀
 ### 👨‍💻 Programming Languages
 
 <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="120" width="120" alt="Python" />
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*9HanDsRU11ZMsgDGJwN96w.gif" height="120" width="120" alt="SQL" />
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" height="120" width="120" alt="Excel" />
 
 <hr>
 
