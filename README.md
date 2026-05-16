@@ -41,10 +41,13 @@ Turning Raw Data into Meaningful Insights 🚀
 
 ### ⚙️ Tools & Platforms
 
-<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/github.gif" height="120" width="120" alt="GitHub" />
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" height="120" width="120" alt="VS Code" />
-<img src="https://i.gifer.com/7efs.gif" height="120" width="120" alt="MySQL" />
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" height="120" width="120" alt="Analytics Dashboard" />
+<img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" height="120" width="120" alt="Power BI" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="120" width="120" alt="MySQL" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="120" width="120" alt="Jupyter Notebook" />
+
+<img src="https://img.icons8.com/color/480/microsoft-excel-2019--v1.png" height="120" width="120" alt="MS Excel" />
 
 </div>
 
