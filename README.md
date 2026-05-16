@@ -13,6 +13,6 @@ Data Analyst with a B.Tech in Computer Science<br>Experienced in Python, SQL, an
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashishkumardata&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ashishkumardata&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=ashishkumardata&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
