@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.prod.website-files.com/68004ff6ef52407f799f3bfa/680aa58cd0df893354403298_66cd00773b43b2e53bfc4549_60d35967a853a1b14851703b_All%252520the%252520data%252520(1).gif" width="100%" height="75%" />
+  <img src="https://cdn.prod.website-files.com/68004ff6ef52407f799f3bfa/680aa58cd0df893354403298_66cd00773b43b2e53bfc4549_60d35967a853a1b14851703b_All%252520the%252520data%252520(1).gif" width="80%" />
 </div>
 
 <h1 align="center">📊 Data Analyst Portfolio</h1>
