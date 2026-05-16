@@ -73,15 +73,15 @@ Always learning new technologies and improving analytical skills 📊
 
 <div align="left">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/ashishkumardata/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://github.com/ashishkumardata" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub" />
 </a>
 
-<a href="mailto:yourmail@gmail.com" target="_blank">
+<a href="mailto:ashishkmr.online@gmail.com" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email" />
 </a>
 
